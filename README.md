@@ -1,5 +1,9 @@
 # Dual-Channel-Audio-Deepfake-Detection
 
+**Paper:** [Dual-Channel Deepfake Audio Detection: Leveraging Direct and Reverberant Waveforms](https://doi.org/10.1109/ACCESS.2025.3532775), *IEEE Access* (2025). Gunwoo Lee and Jungmin Lee contributed equally as co-first authors.
+
+This is Jungmin Lee's fork of [Gunwoo Lee's original code repository](https://github.com/gunwoo5034/Dual-Channel-Audio-Deepfake-Detection).
+
 This code is modified from [MarHershey's Repository](https://github.com/MarkHershey/AudioDeepFakeDetection.git). 
 
 ## Set up Environment
